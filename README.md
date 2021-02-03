@@ -31,4 +31,12 @@ https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial
 
 We took the parts of feature engineering and data visialization from the kernel, since they are quite educational. The main change we made was to integrate all the pre-processing step into transformers, that way we can easily integrate it into a pipeline, and use for the training and test sets.\\
 
-There is work that can be done to improve our results, specially in the part of the model used. I didn't explore too many options to be honest. The accuracy of this kernel was 0.83 with the validation set and 0.78, which is around the top 10%.
+There is work that can be done to improve our results, specially in the part of the model used. I didn't explore too many options to be honest. The accuracy of this kernel was 0.83 with the validation set and 0.78, which is around the top 10%. 
+
+## Conclusions
+
+The main objective was accomplished, which was learning and getting familiar with Kaggle, I learnt to create new features from the existing ones, vsualization techniques and I was able to integrate customized transformers in order to have reusable pipelines. 
+
+## Future work
+
+Try other parameters for the Random Forest model used, and also try to use other models and compare the results obtained.
