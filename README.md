@@ -25,13 +25,13 @@ The results are published in the following kernel:
 
 https://www.kaggle.com/desparzaalba/titanic-with-transformers
 
-This work was based on the kernel on this other kernel:
+This work was based on this other kernel:
 
 https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial
 
-We took the parts of feature engineering and data visialization from the kernel, since they are quite educational. The main change we made was to integrate all the pre-processing step into transformers, that way we can easily integrate it into a pipeline, and use for the training and test sets.\\
+I took the parts of feature engineering and data visialization from the kernel from "gunesevitan", since they are quite educational. The main change that I made was to integrate the pre-processing step into transformers, that way I can easily use it in a pipeline for the training and test sets.\\
 
-There is work that can be done to improve our results, specially in the part of the model used. I didn't explore too many options to be honest. The accuracy of this kernel was 0.83 with the validation set and 0.78, which is around the top 10%. 
+There is work that can be done to improve the results, specially in the part of the model used. I didn't explore too many options to be honest. The accuracy of this kernel was 0.83 with the validation set and 0.78 in the test set, which is around the top 10%. 
 
 ## Conclusions
 
